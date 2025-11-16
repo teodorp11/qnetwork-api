@@ -26,10 +26,5 @@ namespace qnetwork_api.Models
         // Network mappings
         public ICollection<IndustrialDeviceNetworkMapping> NetworkMappings { get; set; } = new List<IndustrialDeviceNetworkMapping>();
 
-
-        // Metadata
-        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
-        public DateTime? LastSeenAt { get; set; }
-
     }
 }
