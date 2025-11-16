@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\qnetwork-api\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CB820D87-7A1C-445F-B297-49DCAF6AF399}|qnetwork-api\\qnetwork-api.csproj|c:\\users\\admin\\desktop\\qnetwork-api\\qnetwork-api\\qnetwork-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{CB820D87-7A1C-445F-B297-49DCAF6AF399}|qnetwork-api\\qnetwork-api.csproj|solutionrelative:qnetwork-api\\qnetwork-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -14,21 +9,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 218,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "qnetwork-api.http",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\qnetwork-api\\qnetwork-api\\qnetwork-api.http",
-              "RelativeDocumentMoniker": "qnetwork-api\\qnetwork-api.http",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\qnetwork-api\\qnetwork-api\\qnetwork-api.http*",
-              "RelativeToolTip": "qnetwork-api\\qnetwork-api.http*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-15T15:44:46.802Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
