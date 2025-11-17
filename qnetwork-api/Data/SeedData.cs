@@ -19,7 +19,7 @@ namespace qnetwork_api.Data
                 Description = "Temperature sensor near press #2",
                 IndustrialDeviceType = IndustrialDeviceType.IndustrialSensor,
                 IndustrialSensorType = IndustrialSensorType.TemperatureSensor,
-                Status = IndustrialDeviceStatus.Online
+                Status = IndustrialDeviceStatus.Offline
             };
 
             var d2 = new IndustrialDevice

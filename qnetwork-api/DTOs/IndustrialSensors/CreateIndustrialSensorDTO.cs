@@ -6,8 +6,11 @@ namespace qnetwork_api.DTOs.IndustrialSensors
     public class CreateIndustrialSensorDTO
     {
         [Required]
+        [MinLength(3)]
+        [MaxLength(50)]
         public required string Name { get; set; } = string.Empty;
 
+        [MaxLength(200)]
         public string? Description { get; set; }
 
         [Required]

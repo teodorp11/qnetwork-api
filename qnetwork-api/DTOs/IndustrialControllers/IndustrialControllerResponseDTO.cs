@@ -4,9 +4,11 @@ namespace qnetwork_api.DTOs.IndustrialControllers
 {
     public class IndustrialControllerResponseDTO
     {
-        public Guid Id { get; set; }
+        public Guid ID { get; set; }
         public string Name { get; set; } = string.Empty;
-        public IndustrialControllerType? IndustrialControllerType { get; set; }
+
+        public string? Description { get; set; }
+        public IndustrialControllerType IndustrialControllerType { get; set; }
         public IndustrialDeviceStatus Status { get; set; }
     }
 }
