@@ -5,7 +5,7 @@ using qnetwork_api.Helpers;
 using qnetwork_api.Helpers.Mapping;
 using qnetwork_api.Helpers.Validation;
 using qnetwork_api.Models;
-using qnetwork_api.Services.Devices;
+using qnetwork_api.Services.IndustrialDevices;
 
 namespace qnetwork_api.Services.IndustrialDevices
 {

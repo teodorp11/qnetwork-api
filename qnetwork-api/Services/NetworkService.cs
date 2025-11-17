@@ -2,9 +2,8 @@
 using qnetwork_api.Data;
 using qnetwork_api.DTOs.Networks;
 using qnetwork_api.Models;
-using qnetwork_api.Services;
 
-namespace qnetwork_api.Services.Networks
+namespace qnetwork_api.Services
 {
     public class NetworkService : INetworkService
     {

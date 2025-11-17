@@ -1,6 +1,6 @@
 ﻿using qnetwork_api.DTOs.IndustrialActuators;
 
-namespace qnetwork_api.Services.Devices
+namespace qnetwork_api.Services.IndustrialDevices
 {
     public interface IIndustrialActuatorService
     {
