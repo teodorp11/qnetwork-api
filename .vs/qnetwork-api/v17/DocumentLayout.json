@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\qnetwork-api\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CB820D87-7A1C-445F-B297-49DCAF6AF399}|qnetwork-api\\qnetwork-api.csproj|c:\\users\\admin\\desktop\\qnetwork-api\\qnetwork-api\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB820D87-7A1C-445F-B297-49DCAF6AF399}|qnetwork-api\\qnetwork-api.csproj|solutionrelative:qnetwork-api\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB820D87-7A1C-445F-B297-49DCAF6AF399}|qnetwork-api\\qnetwork-api.csproj|c:\\users\\admin\\desktop\\qnetwork-api\\qnetwork-api\\services\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB820D87-7A1C-445F-B297-49DCAF6AF399}|qnetwork-api\\qnetwork-api.csproj|solutionrelative:qnetwork-api\\services\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB820D87-7A1C-445F-B297-49DCAF6AF399}|qnetwork-api\\qnetwork-api.csproj|c:\\users\\admin\\desktop\\qnetwork-api\\qnetwork-api\\controllers\\networkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB820D87-7A1C-445F-B297-49DCAF6AF399}|qnetwork-api\\qnetwork-api.csproj|solutionrelative:qnetwork-api\\controllers\\networkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB820D87-7A1C-445F-B297-49DCAF6AF399}|qnetwork-api\\qnetwork-api.csproj|c:\\users\\admin\\desktop\\qnetwork-api\\qnetwork-api\\models\\enums\\industrialactuatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB820D87-7A1C-445F-B297-49DCAF6AF399}|qnetwork-api\\qnetwork-api.csproj|solutionrelative:qnetwork-api\\models\\enums\\industrialactuatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -26,63 +9,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 22,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NetworkService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\qnetwork-api\\qnetwork-api\\Services\\NetworkService.cs",
-              "RelativeDocumentMoniker": "qnetwork-api\\Services\\NetworkService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\qnetwork-api\\qnetwork-api\\Services\\NetworkService.cs",
-              "RelativeToolTip": "qnetwork-api\\Services\\NetworkService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T20:52:35.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NetworksController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\qnetwork-api\\qnetwork-api\\Controllers\\NetworksController.cs",
-              "RelativeDocumentMoniker": "qnetwork-api\\Controllers\\NetworksController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\qnetwork-api\\qnetwork-api\\Controllers\\NetworksController.cs",
-              "RelativeToolTip": "qnetwork-api\\Controllers\\NetworksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T20:51:29.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\qnetwork-api\\qnetwork-api\\Data\\SeedData.cs",
-              "RelativeDocumentMoniker": "qnetwork-api\\Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\qnetwork-api\\qnetwork-api\\Data\\SeedData.cs",
-              "RelativeToolTip": "qnetwork-api\\Data\\SeedData.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T20:44:00.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IndustrialActuatorType.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\qnetwork-api\\qnetwork-api\\Models\\Enums\\IndustrialActuatorType.cs",
-              "RelativeDocumentMoniker": "qnetwork-api\\Models\\Enums\\IndustrialActuatorType.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\qnetwork-api\\qnetwork-api\\Models\\Enums\\IndustrialActuatorType.cs",
-              "RelativeToolTip": "qnetwork-api\\Models\\Enums\\IndustrialActuatorType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T20:50:14.11Z",
-              "EditorCaption": ""
             }
           ]
         }

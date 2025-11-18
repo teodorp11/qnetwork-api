@@ -7,8 +7,8 @@ namespace qnetwork_api.Models
     {
         [Key]
         public Guid ID { get; set; }
-        [Required]
         
+        [Required]
         public Guid IndustrialDeviceID { get; set; }
         
         [ForeignKey(nameof(IndustrialDeviceID))]

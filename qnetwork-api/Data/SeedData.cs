@@ -8,7 +8,9 @@ namespace qnetwork_api.Data
         public static void Initialize(QNetworkContext context)
         {
             if (context.IndustrialDevices.Any() || context.Networks.Any())
+            {
                 return;
+            }
 
             var n1 = new Network { Name = "Factory Floor A", Description = "Main production floor network" };
             var n2 = new Network { Name = "Testing Lab", Description = "Lab network for QA" };
@@ -36,7 +38,7 @@ namespace qnetwork_api.Data
                 Name = "PLC-Gateway-01",
                 IndustrialDeviceType = IndustrialDeviceType.IndustrialController,
                 IndustrialControllerType = IndustrialControllerType.PLC,
-                Status = IndustrialDeviceStatus.Online
+                Status = IndustrialDeviceStatus.Offline
             };
 
             context.Networks.AddRange(n1, n2);
