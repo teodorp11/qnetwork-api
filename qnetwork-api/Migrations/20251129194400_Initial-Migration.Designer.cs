@@ -12,7 +12,7 @@ using qnetwork_api.Data;
 namespace qnetwork_api.Migrations
 {
     [DbContext(typeof(QNetworkContext))]
-    [Migration("20251117203311_Initial-Migration")]
+    [Migration("20251129194400_Initial-Migration")]
     partial class InitialMigration
     {
         /// <inheritdoc />
